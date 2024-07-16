@@ -1,0 +1,1 @@
+chrome-extension://ienfalfjdbdpebioblfackkekamfmbnh/app/detect_angular_for_extension_icon_bundle.js

@@ -1,0 +1,1 @@
+chrome-extension://ienfalfjdbdpebioblfackkekamfmbnh/devtools/projects/shared-utils/src/lib/angular-check.ts

@@ -1,0 +1,1 @@
+chrome-extension://ienfalfjdbdpebioblfackkekamfmbnh/app/ng_validate_bundle.js
